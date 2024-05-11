@@ -1,0 +1,1 @@
+{"stability":0.74,"similarity_boost":0.97,"style":0.9,"use_speaker_boost":false}
